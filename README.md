@@ -1,1 +1,1 @@
-# Military-Inventory-System
+# Military Inventory Management System
